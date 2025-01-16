@@ -54,7 +54,7 @@ Nasci e fui criado no interior de São Paulo, atualmente resido em Cuiabá/MT. T
 
 <p align="center">
   <a href="https://github.com/felphisss">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=felphisss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felphisss&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=felphisss&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felphisss&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   </a>
 </p>
